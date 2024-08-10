@@ -1,10 +1,10 @@
 **YatraGuru** is a travel assistant chatbot designed to help users with various travel-related tasks. The application leverages natural language processing to interact with users and provide useful information or services related to travel, including booking flights, hotels, rental cars, and providing local attractions and travel tips.
 
 **Key Features**:
-**1.Chatbot Functionality:**
+- **1.Chatbot Functionality:**
 Assists users with booking flights, hotels, rental cars, and providing destination information.
-Provides weather updates, local attractions, and customer service support.
-**2.Language Support:**
+Provides weather updates, local attractions, and customer service support.<br>
+- **2.Language Support:**
 Offers responses in multiple languages using Google Translate for translation.
 **3.Voice Input**:
 Allows users to input queries via voice commands and stops voice input if needed.
